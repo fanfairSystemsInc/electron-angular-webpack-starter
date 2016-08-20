@@ -1,0 +1,10 @@
+{
+  "name": "FanFair-Pro-Application",
+  "globalDependencies": {
+    "angular": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular.d.ts#f3911d711006be676d9e1bcbc7c768b39d1ad81b",
+    "angular-ui-bootstrap": "github:DefinitelyTyped/DefinitelyTyped/angular-ui-bootstrap/angular-ui-bootstrap.d.ts#f3911d711006be676d9e1bcbc7c768b39d1ad81b",
+    "jquery": "github:DefinitelyTyped/DefinitelyTyped/jquery/jquery.d.ts#f3911d711006be676d9e1bcbc7c768b39d1ad81b",
+    "jqueryui": "registry:dt/jqueryui#1.9.0+20160509160024",
+    "require": "github:DefinitelyTyped/DefinitelyTyped/requirejs/require.d.ts#08ed4e9f1869e37e29514d862e0158b40e550232"
+  }
+}
